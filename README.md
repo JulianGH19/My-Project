@@ -32,3 +32,6 @@ PREGUNTA 6:Se tendrían que producir conflictos en esta acción. [Si/No] Justifi
 
 RESPUESTA:NO a menos que hayas realizado un "git push" antes del "git merge".
 <img width="796" height="862" alt="git merge" src="https://github.com/user-attachments/assets/55242e0f-7334-4eca-bf7c-3e624a97e3d9" />
+<img width="785" height="792" alt="Preparando conflicto 1" src="https://github.com/user-attachments/assets/2b13ce88-be5d-4b9f-a017-341c3a517a4d" />
+<img width="1062" height="800" alt="haciendo el merge tuve que instalar vim" src="https://github.com/user-attachments/assets/5ad2d8ce-a075-4ca9-8ef7-a1fefe2301d4" />
+<img width="933" height="856" alt="falta push" src="https://github.com/user-attachments/assets/22770bac-b310-49a2-a40c-f227bd7450eb" />
